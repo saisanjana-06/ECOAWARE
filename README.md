@@ -1,5 +1,8 @@
 # 🌿 EcoAware — Environmental Awareness Website
 
+## 🌐 Live Website
+**Visit EcoAware here:** https://ecoaware1.onrender.com
+
 ## About the Project
 EcoAware is a web-based application designed to promote environmental awareness and encourage sustainable habits. It provides educational information about environmental issues and an interactive quiz to test users' knowledge.
 
@@ -19,15 +22,15 @@ EcoAware is a web-based application designed to promote environmental awareness 
 ## How to Run Locally
 
 ### 1. Start the Backend
-Open a terminal in the `backend` directory and run:
+Open a terminal in the project root directory and run:
 
 ```bash
 pip install -r requirements.txt
-python -m uvicorn main:app --reload
+uvicorn backend.main:app --reload
 ```
 
 ### 2. Start the Frontend
-Open another terminal in the frontend directory and run:
+Open another terminal in the directory containing the frontend's `package.json` and run:
 
 ```bash
 npm install
