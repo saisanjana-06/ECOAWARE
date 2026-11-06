@@ -1,7 +1,7 @@
 # 🌿 EcoAware — Environmental Awareness Website
 
 ## 🌐 Live Website
-**Visit EcoAware here:** https://ecoaware1.onrender.com
+**Visit EcoAware here:**https://ecoaware-kappa.vercel.app/
 
 ## About the Project
 EcoAware is a web-based application designed to promote environmental awareness and encourage sustainable habits. It provides educational information about environmental issues and an interactive quiz to test users' knowledge.
